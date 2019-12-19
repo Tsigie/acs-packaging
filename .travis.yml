@@ -18,6 +18,7 @@ branches:
   only:
     - master
     - /support\/.*/
+    - fix/repo-4613_update-private-working-copy-properties
 
 # This should not be required on community build
 before_install:
